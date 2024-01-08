@@ -1,5 +1,17 @@
 ## Cyclistic BikeShare Data Exploration in SQL
 Google Data Analyst professional certificate Capstone. In this project I cleaned divvy dataset in BigQuery Server using SQL
+
+#### Business Task : 
+_How do annual members and casual riders use Cyclistic bikes differently?_ (our assignment from the stakeholder) 
+
+With our assignment or business task, we will create a report with the following deliverables:
+1. A clear statement of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Top three recommendations based on your analysis
+   
 ### Process
 * Guiding Questions
 1. What tools are you choosing and why?
@@ -32,8 +44,6 @@ Key Tasks
 [4] Document the cleaning process.
 
 Deliverable
-Documentation of any cleaning or manipulation of data
-
-Details about this project can be found here [Data Exploration in SQL Queries](https://github.com/Ejay4real/Data-Exploration-in-SQL/blob/main/Github_repo.md)
+Documentation of any cleaning or manipulation of data can be found here [Data Exploration in SQL Queries](https://github.com/Ejay4real/Data-Exploration-in-SQL/blob/main/Github_repo.md)
 
 
