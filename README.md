@@ -34,6 +34,6 @@ Key Tasks
 Deliverable
 Documentation of any cleaning or manipulation of data
 
-Details about this project can be found here [Google Data Analyst professional certificate Capstone](https://github.com/Ejay4real/Data-Exploration-in-SQL/blob/main/Github_repo.md)
+Details about this project can be found here [Data Exploration in SQL Queries](https://github.com/Ejay4real/Data-Exploration-in-SQL/blob/main/Github_repo.md)
 
 
