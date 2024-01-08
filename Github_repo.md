@@ -44,11 +44,9 @@ As part of the Google Data Analytics Certification capstone project, I will perf
 # Ask
 
 
-#### Marketing Questions for the Team
+#### Business Task(Marketing Questions for the Team)
 
-1. **How do annual members and casual riders use Cyclistic bikes differently?** (our assignment from Moreno) 
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
+ **How do annual members and casual riders use Cyclistic bikes differently?** (our assignment from Moreno) 
 
 With our assignment, we will create a report with the following deliverables:
 1. A clear statement of the business task
@@ -56,15 +54,16 @@ With our assignment, we will create a report with the following deliverables:
 3. Documentation of any cleaning or manipulation of data
 4. A summary of your analysis
 5. Supporting visualizations and key findings
-6. Your top three recommendations based on your analysis
+6. Top three recommendations based on your analysis
 
 
 ### Guiding Questions
 * **What is the problem you are trying to solve?**
 
 The problem the team is trying to solve is how to convert more casual riders into annual members. My specific task is to determine how casual riders and members use Cyclistic's service differently.
-* **How can your insights drive business decisions?**
 
+* **How can your insights drive business decisions?**
+  
 By understanding the differences between these two types of riders, we can gain insight into their similarities and differences and create new marketing strategies to convert more casual riders to annual members.
 
 #### Key Tasks
