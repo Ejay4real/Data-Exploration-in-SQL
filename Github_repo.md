@@ -44,7 +44,7 @@ As part of the Google Data Analytics Certification capstone project, I will perf
 # Ask
 
 
-#### Business Task(Marketing Questions for the Team)
+#### Business Task (Marketing Questions for the Team):
 
  **How do annual members and casual riders use Cyclistic bikes differently?** (our assignment from Moreno) 
 
