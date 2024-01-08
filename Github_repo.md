@@ -672,7 +672,7 @@ ORDER BY</br>
 <a id="8"></a> <br>
 # Share
 
-Embedded in this notebook are the visualizations I carried out in tableau.In the meantime I have provided a link to three dasboards in my Tableau Public with all data for this visualization accessible there.
+Embedded in this notebook are the visualizations I carried out in tableau.In the meantime I have provided a link to the dasboards in my Tableau Public with all data for this visualization accessible there.
 
 __Link to the Dashboard visualizations on Tableau__
 https://public.tableau.com/app/profile/elijah.agom/vizzes
