@@ -18,11 +18,7 @@
     
 * [Share/Visualizations](#8)
 
-    * [Review](#9)
     
-    
-* [Act/Conclusions](#10)
-
 <a id="1"></a> <br>
 # Introduction
 
