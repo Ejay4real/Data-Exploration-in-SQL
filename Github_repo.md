@@ -669,14 +669,6 @@ ORDER BY</br>
     
     These trends and relationships allow us to see some differences between casual riders and members that we can then use to start to formulate some recommendations for marketing at specific times of the week, and months to specific riders.
 
-#### Key tasks
-
-1. Aggregate your data so it’s useful and accessible.
-2. Organize and format your data.
-3. Perform calculations.
-4. Identify trends and relationships.
-
-
 #### Deliverable
 
 * A summary of your analysis
@@ -686,101 +678,5 @@ ORDER BY</br>
 
 Embedded in this notebook are the visualizations I carried out in tableau.In the meantime I have provided a link to three dasboards in my Tableau Public with all data for this visualization accessible there.
 
-__Link to First Dashboard visualizations__
-
-https://public.tableau.com/app/profile/elijah.agom/viz/Dashboard1_17043933510000/Dashboard1
-
-<div class='tableauPlaceholder' id='viz1704395841428' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard1_17043933510000&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Dashboard1_17043933510000&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard1_17043933510000&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1704395841428');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='777px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
-__Link to the Third Dashboard visualizations__
-
-https://public.tableau.com/app/profile/elijah.agom/viz/Dashboard2_17043937365880/Dashboard2
-
-<div class='tableauPlaceholder' id='viz1704398337911' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard2_17043937365880&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;Dashboard2_17043937365880&#47;Dashboard2?:language=en-GB&amp;:embed=true' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard2_17043937365880&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1704398337911');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
-
-https://public.tableau.com/app/profile/elijah.agom/viz/Dashboard3_17043945550350/Dashboard3
-
-<div class='tableauPlaceholder' id='viz1704398556100' style='position: relative'><noscript><a href='#'><img alt='Dashboard 3 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard3_17043945550350&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Dashboard3_17043945550350&#47;Dashboard3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Dashboard3_17043945550350&#47;Dashboard3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1704398556100');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='777px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
-<a id="9"></a> <br>
-### Guiding Questions
-* **Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?**
-
-Members and casual riders do tend to use the service differently, typically preferring different bikes and riding more on different days 
-
-* **What story does your data tell?**
-
-The data shows that casual riders tend to use the service for longer durations on average and increase usage on weekends and during warmer months. They also tend to prefer ebikes to classic bikes. Members tend to be more consistent in their use, preferring classic bikes and riding for shorter durations more consistently throughout the day. Members may be using the service as primary transportation for work commuting or local errands while casual users tend to use the service more on the weekends and warmer months, perhaps as a leisure activity.
-
-* **How do your findings relate to your original question?**
-
-The original question is how Cyclistic casual riders and members use the service differently. By showing differences in trip durations, rideable types, day/time use, and others, one can see that these two groups use the service differently and therefore require different types of marketing.
-
-* **Who is your audience? What is the best way to communicate with them?**
-
-The audience is the Cyclistic marketing team and Lily Moreno. By presenting the data and key findings from this case study using visualizations and providing links to all queries and analytics, the team can choose the best way to move forward with their task of increasing membership numbers from casual riders.
-
-* **Can data visualization help you share your findings?**
-
-Data visualization can help to see the differences between casual riders and members, allowing stakeholders to better understand how the bikes are used differently by these two groups.
-
-* **Is your presentation accessible to your audience?**
-
-The presentation is provided in this notebook and on [Tableau Public](https://public.tableau.com/app/profile/elijah.agom/vizzes')
-
-
-### Key Tasks
-1. Determine the best way to share your findings.
-2. Create effective data visualizations.
-3. Present your findings.
-4. Ensure your work is accessible.
-
-
-### Deliverable
-* Supporting visualizations and key findings
-
-<a id="10"></a> <br>
-# Act
-
-#### Guiding questions
-
-__● What is your final conclusion based on your analysis?__
-
-    Members tend to use the service more consistently throughout the day and for shorter durations, suggesting that they may be using the bikes for work commuting or short errands near home. They tend to use classic bikes more than ebikes, indicating preference for physical exercise or reduced cost of rides (Divvy charges $0.17/minute for ebikes to members in addition to membership). 
-[Divvy Pricing](https://divvybikes.com/pricing)
-
-    Casual users tend to use the service more on the weekends and in warmer months, as well as preferring ebikes to classic bikes. Their trip durations nearly double member durations on average, which creates opportunity for marketing if they use the service frequently, or suggests a need for marketing to different types of users that do not fit a typical member profile. (Divvy charges $1 to unlock a bike and $0.17/minute for classic bikes or $0.42/minute for ebikes to casual riders).
-    
-    
-    * The average member tends to use the service the same way, riding for shorter durations consistently throughout the week and more often with classic bikes. Because of this, the marketing team will need to market to casual users that fit this profile or create incentives to expand the benefits of membership to users that do not fit this profile, such as warm weather and weekend users.
-    
-
-__● How could your team and business apply your insights?__
-
-    The marketing team can use these insights to create a marketing campaign that targets specific types of casual users or incentivizes use during specific times of the year.
-
-__● What next steps would you or your stakeholders take based on your findings?__
-
-    - Begin marketing to casual riders based on this feedback and review in 1-3 months for updated numbers and effectiveness of campaign and continue or pivot.
-
-__● Is there additional data you could use to expand on your findings?__
-
-    - Pricing for casual/member users when using each rideable type (Divvy pricing used as placeholder)
-    - User profiles to determine how specific users tend to use the service and determine if they are likely to respond positively to membership marketing.
-
-
-#### Deliverable
-
-Your top three recommendations based on your analysis
-
-    1. Casual riders already use bikes for longer durations than members, and increase the frequency of this usage during summer months. Because of this, Cyclistic could look into 3-6 month memberships that are advertised to casual riders beginning around March.
-    
-    2. Review emails/text receipts sent to members and casual riders after trips detailing how much money was saved (by members) to retain members or how much could have been saved (by casual riders if they upgraded).
-    
-    3. Periodic alerts/marketing emails to casual riders during warmer months to suggest taking a ride on a nice day, and current promos for membership like free 7-day trials in addition to the free 45 minutes after unlocking a bike, summer specials, weekend memberships, or different types of memberships based on bike type.
-
-Thank you to all who have read through this project. This is my first project and your feedback on how I could improve will be appreciated. So if you have any suggestions feel free to leave a comment or DM me directly. The project took me a lot longer to complete than I anticipated and I ran into more problems using only SQL/Tableau than I expected to, but learned a lot along the way.
-
->Shoutout to Michael Petersen 
-(https://www.kaggle.com/code/michaelpetersen2022/google-data-analytics-capstone-cyclistic-1/notebook#Share). I wasn't sure how to make a case study on Kaggle and used theirs as a general guide throughout the process.
+__Link to the Dashboard visualizations on Tableau__
+https://public.tableau.com/app/profile/elijah.agom/vizzes
